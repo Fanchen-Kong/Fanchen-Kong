@@ -15,7 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Fanchen Kong, a MSEE (Electronics and Chip Design) student @ KU Leuven. I'm currently in my gap year and I'm doing my study-challenge!
+<div class="my">
+
+​	<div class="photo"><img src="https://github-readme-stats.vercel.app/api?username=Fanchen-Kong&theme=dark"></div>
+
+​	<div class="intro">
+
+​	    <p>I'm Fanchen Kong, a MSEE (Electronics and Chip Design) student @ KU Leuven. I'm currently in my gap year and I'm doing my study-challenge!
+
+​                        </p>
+
+​	</div>
+
+</div>
+
+
+.photo{
+
+  float:left;
+
+ width:20%;
+
+}
+
+.intro{
+
+  float:right;
+
+  width:80%;
+
+}
 
 
 
