@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=Fanchen-Kong&theme=dark)
+
 I'm Fanchen Kong, a MSEE(Electronics and Chip Design) student @ KU Leuven.
+![](https://github-readme-stats.vercel.app/api?username=Fanchen-Kong&theme=dark)
