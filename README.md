@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Fanchen Kong, a MSEE(Electronics and Chip Design) student @ KU Leuven.
-![](https://github-readme-stats.vercel.app/api?username=Fanchen-Kong&theme=dark)
+I'm Fanchen Kong, a MSEE (Electronics and Chip Design) student @ KU Leuven. I'm currently in my gap year and I'm doing my study-challenge!
+
+
+
