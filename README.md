@@ -5,6 +5,6 @@
 I'm Fanchen Kong, a MSEE (Electronics and Chip Design) student @ KU Leuven.
 
 - 📚 Currently working on my Leuven Study Challenge
-- 👨‍💻 Working hard on learning C++
+- 👨‍💻 Working hard on learning Scala
 - 🐶 Amateur Go player as National second-level athlete
 
