@@ -4,7 +4,7 @@
 
 I'm Fanchen Kong, a Master of Electrical Engineering (Electronics and Chip Design) student @ KU Leuven.
 
-- 📚 Currently working on my Leuven Study Challenge
+- 📚 Currently working on my [Leuven Study Challenge](https://github.com/Fanchen-Kong/Study-Challenge)
 - 👨‍💻 Working hard on learning C++
 - 🐶 Amateur Go player as National second-level athlete
 
